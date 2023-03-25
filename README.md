@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dennissio
 - 👀 I’m interested in DataScience
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently programming with Java and Python
